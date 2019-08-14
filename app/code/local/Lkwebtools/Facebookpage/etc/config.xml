@@ -10,7 +10,7 @@
 <config>
     <modules>
         <Lkwebtools_Facebookpage>
-            <version>1.0.0</version>
+            <version>1.0.1</version>
         </Lkwebtools_Facebookpage>
     </modules>
     <frontend>
