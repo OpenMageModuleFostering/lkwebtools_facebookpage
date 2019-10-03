@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/Lkwebtools_Facebookpage",
+    "name": "openmage-module-fostering\/lkwebtools_facebookpage",
     "type": "magento-module",
-    "license": "osl-3.0",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "The Facebook Page plugin lets you easily embed and promote any Facebook Page on your website. ",
     "authors": [
